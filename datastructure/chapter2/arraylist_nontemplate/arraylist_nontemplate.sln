@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arraylist_nontemplate", "arraylist_nontemplate.vcproj", "{13B69C7C-27CB-479A-9F95-919BBD566915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B69C7C-27CB-479A-9F95-919BBD566915}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13B69C7C-27CB-479A-9F95-919BBD566915}.Debug|Win32.Build.0 = Debug|Win32
+		{13B69C7C-27CB-479A-9F95-919BBD566915}.Release|Win32.ActiveCfg = Release|Win32
+		{13B69C7C-27CB-479A-9F95-919BBD566915}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
