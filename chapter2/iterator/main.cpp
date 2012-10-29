@@ -11,8 +11,9 @@ int main()
    l.printList(cout);
    for(iterator<int> it=l.begin();it!=l.end();it++)
    {
-	   cout<<*it<<endl;
+	   cout<<(*it<<endl;
    }
+   
    system("pause");
 
 
