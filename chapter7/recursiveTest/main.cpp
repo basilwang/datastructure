@@ -12,10 +12,11 @@ int recursiveInfinite(int n)
 {	
     return n*recursiveInfinite(n-1);
 }
+/*
 int recursiveSuccess(int n)
 {
 	 if(n==0) 
      {return 1;} 
 	 else
     return n*recursiveSuccess(n-1);
-}
+}*/

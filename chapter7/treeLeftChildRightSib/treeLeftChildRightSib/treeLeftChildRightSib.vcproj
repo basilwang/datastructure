@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="recursiveTest1"
-	ProjectGUID="{E1D56427-6C90-4B42-BC45-5CFC80A02E65}"
-	RootNamespace="recursiveTest1"
+	Name="treeLeftChildRightSib"
+	ProjectGUID="{B4364B54-D556-4130-BB11-C27AD70E0014}"
+	RootNamespace="treeLeftChildRightSib"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -161,12 +161,24 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
+			<File
+				RelativePath=".\main.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="头文件"
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\node.h"
+				>
+			</File>
+			<File
+				RelativePath=".\tree.h"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="资源文件"
